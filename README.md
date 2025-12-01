@@ -8,4 +8,4 @@ This SHM system incorporates signal processing techniques focusing on the extrac
 
 Areas of further research include incorporating a machine learning model to be trained iteratively with experimental data. The iterative nature of data collection ensures continual refinement of the machine learning model during development through the incorporation of additional experimental data and exploring new methodologies. This systematic approach ensures the improvement of the system and continued adaptability.
 
-Refer to the design document for process and methodology.
+Please refer to the design document for process and methodology.
