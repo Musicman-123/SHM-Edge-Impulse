@@ -1,0 +1,36 @@
+Original Data:
+
+Pre-Wavelet - https://studio.edgeimpulse.com/public/371078/v1		98/72
+Wavelet - https://studio.edgeimpulse.com/public/371078/v2		99/57
+FFT - https://studio.edgeimpulse.com/public/371078/v3			89/34
+Tuned - https://studio.edgeimpulse.com/public/371078/live		99/57
+
+v5 - https://studio.edgeimpulse.com/public/371527/live			99/66
+
+
+
+Feb. Data:
+
+HEC 4 - https://studio.edgeimpulse.com/public/379539/live		10/4
+
+HEC 4 Final - https://studio.edgeimpulse.com/public/380035/live		95/94
+
+
+
+Raw Data No Rotation:
+
+HEC 4 Raw Data - https://studio.edgeimpulse.com/public/384642/live	88/84
+
+Initial testing on raw data - no rotations or synthetic processing
+
+
+
+new Model Data:
+
+
+
+Superior training data for improved precision
+
+
+Arduino Giga was chosen for dual processors and embedded ADCs to enable real-time DSP and monitoring.
+
